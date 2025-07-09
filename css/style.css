@@ -423,11 +423,10 @@ span:nth-child(11) {
     }
 
    
-        @media screen and (max-width: 600px) {
-       body {
-         font-size: 14px;
-         background-color: #f0f0f0;
-       }
-     }
+        @media only screen and (min-width: 640px) {
+	}
+        @media screen and (min-width: 1024px) {
+	}
+
 
     
