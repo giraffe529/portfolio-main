@@ -31,4 +31,3 @@ const title2Options = {
   fill: 'forwards',
 }
 
-title2.animate(title2Keyframes, title2Options);
